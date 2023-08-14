@@ -2,7 +2,7 @@
 ### studying Computer Science and Engineering
 
 - 🔭 I’m currently studying at American International University - Bangladesh 
-- 🌱 I’m currently learning ASP .net MVC 
+- 🌱 I’m currently learning MERN stack 
 - 👯 I’m looking to collaborate on GitHub Projects 
 - 💬 Ask me about anything related to programming 
 - 📫 How to reach me: I check my Email at least twice a day 
