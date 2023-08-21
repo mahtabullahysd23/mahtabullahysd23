@@ -27,6 +27,33 @@
   </a>
 </p>
 
+## 🎓 Education: <br>
+
+
+## 📽 Projects: <br>
+
+- ### TourneyNet
+  (A web-based e-sport management system developed 
+  using ASP. Net N-tier Architecture)
+
+- #### ZERO HUNGER
+  (A web-based application to reduce waste of food of 
+  restaurant developed using ASP. Net MVC)
+ - #### WINGED WONDER
+   (It is a revamped version of the popular game, Flappy 
+   Bird, developed using C# with Unity game engine)
+- #### MT PLAYER
+  (A music player android application developed using 
+  java with Android Development Studio)
+- #### E-COMMERCE
+  (A web-based e-commerce site developed using ASP. 
+  Net MVC)
+- #### CAR RENTAL SYSTEM
+  (A windows form application developed using C# and 
+  implemented advance database management)
+- #### Wedding Management
+  (A windows form application developed using C#)
+
  ## 📈 GitHub Stats: <img height="25em" src="https://komarev.com/ghpvc/?username=mahtabullahysd23&color=blueviolet&style=plastic" align = "right"/>
 <br>
 <p align="center">
@@ -55,5 +82,3 @@
 <a href="https://fb.com/mahtabsani.065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahtabsani.065" height="30" width="40" /></a>
 <a href="https://instagram.com/mahtab.sani123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahtab.sani123" height="30" width="40" /></a>
 </p>
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
