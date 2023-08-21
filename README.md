@@ -1,7 +1,10 @@
-# Hi there 👋, myself Mahtab Ullah Sani
-### Studying Computer Science and Engineering
+
 
 [![Banner](banner.png)]()
+
+
+# Hi there 👋, myself Mahtab Ullah Sani
+### Studying Computer Science and Engineering
 
 
 - 🔭 I’m currently studying at American International University - Bangladesh 
