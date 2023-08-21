@@ -1,9 +1,11 @@
 
+<p align=center>
+ <img src="banner.png" height="230px" width="630px">
+</p>
 
-[![Banner](banner.png)]()
 
 
-# Hi there 👋, myself Mahtab Ullah Sani
+# Hi there, myself Mahtab Ullah Sani
 ### Studying Computer Science and Engineering
 
 
@@ -16,7 +18,7 @@
 
 "I'm a developer who loves coding and building innovative solutions. My GitHub profile showcases my projects and code samples, where I leverage my expertise to develop scalable and efficient software. I believe in the importance of clean, readable, and maintainable code. Let's collaborate and build great things together!"
 
-## Skills: <br>
+## ⚙ Skills: <br>
  ### JS  | HTML | CSS | PHP | C# | C++ | .NET | java
 
 <p align="center">
@@ -25,30 +27,27 @@
   </a>
 </p>
 
- ## Stats: <img height="25em" src="https://komarev.com/ghpvc/?username=mahtabullahysd23&color=blueviolet&style=plastic" align = "right"/>
+ ## 📈 GitHub Stats: <img height="25em" src="https://komarev.com/ghpvc/?username=mahtabullahysd23&color=blueviolet&style=plastic" align = "right"/>
 <br>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahtabullahysd23&show_icons=true&theme=tokyonight&border_radius=15&card_width=500px" align = "center"/>
 </p>
 
-## Languages: 
+## 🗣️ Languages Stats: 
 <br>
-
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mahtab12381)](https://github.com/anuraghazra/github-readme-stats)
 <br><br><br>
 
-## Streak: 
+## 🔥 Streak: 
 <br>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahtabullahysd23&" alt="mahtabullahysd23"  align = "center"/>
 </p>
 
 
-
-
-## Connect with me: 
+## ☎ Connect with me: 
 <br>
 <p align="Center">
 <a href="https://twitter.com/sani_mahtab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sani_mahtab" height="30" width="40" /></a>
@@ -56,3 +55,5 @@
 <a href="https://fb.com/mahtabsani.065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahtabsani.065" height="30" width="40" /></a>
 <a href="https://instagram.com/mahtab.sani123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahtab.sani123" height="30" width="40" /></a>
 </p>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
