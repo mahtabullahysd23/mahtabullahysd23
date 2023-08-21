@@ -1,5 +1,8 @@
 # Hi there 👋, myself Mahtab Ullah Sani
-### studying Computer Science and Engineering
+### Studying Computer Science and Engineering
+
+[![Banner](banner.png)]()
+
 
 - 🔭 I’m currently studying at American International University - Bangladesh 
 - 🌱 I’m currently learning MERN stack 
