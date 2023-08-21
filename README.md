@@ -3,8 +3,6 @@
  <img src="banner.png" height="230px" width="630px">
 </p>
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text;size=30)](https://git.io/typing-svg)
-
 
 # Hi there, myself Mahtab Ullah Sani
 ### Studying Computer Science and Engineering
@@ -15,12 +13,12 @@
 - 👯 I’m looking to collaborate on GitHub Projects 
 - 💬 Ask me about anything related to programming 
 - 📫 How to reach me: I check my Email at least twice a day 
-- ⚡ Fun fact: Eat 🍗 Sleep 😴 Code 💻 
+- ⚡ Fun fact: Eat 🍗 Sleep 😴 Code 💻
 
-"I'm a developer who loves coding and building innovative solutions. My GitHub profile showcases my projects and code samples, where I leverage my expertise to develop scalable and efficient software. I believe in the importance of clean, readable, and maintainable code. Let's collaborate and build great things together!"
+I'm a developer who loves coding and building innovative solutions. My GitHub profile showcases my projects and code samples, where I leverage my expertise to develop scalable and efficient software. I believe in the importance of clean, readable, and maintainable code. Let's collaborate and build great things together!
 
 ## ⚙ Skills: <br>
- ### JS  | HTML | CSS | PHP | C# | C++ | .NET | java
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=72&duration=3000&pause=50&color=0EF72B&center=true&vCenter=true&width=970&height=150&lines=JavaScript;HTML;CSS;PHP;C%23;C%2B%2B;+ASP+.Net;Bootstrap;React+JS)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://skillicons.dev">
