@@ -3,6 +3,7 @@
  <img src="banner.png" height="230px" width="630px">
 </p>
 
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text;size=30)](https://git.io/typing-svg)
 
 
 # Hi there, myself Mahtab Ullah Sani
@@ -35,7 +36,6 @@
 - ### TourneyNet
   (A web-based e-sport management system developed 
   using ASP. Net N-tier Architecture)
-
 - #### ZERO HUNGER
   (A web-based application to reduce waste of food of 
   restaurant developed using ASP. Net MVC)
